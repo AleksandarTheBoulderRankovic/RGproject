@@ -1,0 +1,4 @@
+Ove nedelje sam "Mobilizovao" svog mini-bota, ima cetiri pravca u kojima moze da se pomera(nasao sam jedan tutorijal o akcijama kada su pritisnuta dva dugmeta odjednom -npr pritisnem W i A pa ide dijagonalno, cim ga proucim ubacujem i to(who needs ONE when you can have EIGHT DIRECTIONS!!)).
+ Radio sam i na obliku mini-bota ostavio sam ga u Wire formi da se lepse razaznaje ali sam pravio i solid formu sa onim triangle_strip-om(zabavno ali kompleksno).
+
+Sledece nedelje ubacujem svetlo i materijale(May the gods be merciful), zavrsavam izgled modela bota da mogu lepo to da ukomponujem sa njim.![REEEEE](https://github.com/MATF-RG18/RG14-nerdbot-arena/blob/master/Screenshot/Screenshot%20from%202018-11-25%2022-58-43.png)

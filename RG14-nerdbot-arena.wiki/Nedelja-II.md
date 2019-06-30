@@ -1,0 +1,3 @@
+Ove nedelje sam postavio pod i napravio jednu kocku koja (veoma lose) predstavlja mini-bota. Takodje sam napravio zid koristeci torus, ukljucujem dva screenshota da se bolje vidi kako izgleda taj zid zato sto jos nemam svetlo i teksture da ga lepo docaram...
+Sledece nedelje bi voleo da implementiram osnovne pokrete svom botu i mozda neka oruzija koje moze da koristi.![Gde je slika!?](https://github.com/MATF-RG18/RG14-nerdbot-arena/blob/master/Screenshot/Screenshot%20from%202018-11-16%2023-54-19.png)
+![What has transpired here?](https://github.com/MATF-RG18/RG14-nerdbot-arena/blob/master/Screenshot/Screenshot%20from%202018-11-16%2023-55-37.png)
